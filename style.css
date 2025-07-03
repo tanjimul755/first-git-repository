@@ -1,6 +1,7 @@
 .m-heading {
     font-size: 2em;
-    color: #333;
+    color: white;
+    background-color: #333;
     text-align: center;
-    margin-top: 20px;
+    margin: 20px;
 }
